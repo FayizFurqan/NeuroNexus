@@ -29,6 +29,7 @@ Achieved reasonable performance with `RandomForestClassifier`.
 
 ##  Files Included
 - `Titanic_Survival_Prediction.ipynb`: Jupyter Notebook with full code
+- https://colab.research.google.com/drive/1fW-gdJoKPIkkZOahL_z3B7EQNPTE5Weu#scrollTo=dOZdbKiPu2Tw
 - `README.md`: This file
 - `tested.csv`: Dataset
 - `Output.pdf`: Optional report/exported notebook as PDF
