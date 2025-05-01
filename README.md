@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🚢
+# Titanic Survival Prediction 
 
 This project is part of the **NeuroNexus Internship Round 1** Data Science task. The goal is to build a predictive model that determines whether a passenger survived the Titanic disaster based on features such as age, sex, class, and fare.
 
@@ -37,7 +37,7 @@ Achieved reasonable performance with `RandomForestClassifier`.
 ##  Status
 **Completed and Submitted as part of the NeuroNexus selection process.**
 
-## 🔗 Author
+##  Author
 **Sheikh Fayiz**
 
 ---
